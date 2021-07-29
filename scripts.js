@@ -1,4 +1,3 @@
-
 // let e a variavel
 
 // aqui foi feito a busca do select e do button la no html com os respectivos nomes usando esses codicos
